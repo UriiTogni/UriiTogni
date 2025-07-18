@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Uriel ([@UriiTogni](https://github.com/UriiTogni))
 
-Desarrollador enfocándome en proyectos interactivos y funcionales con **Godot (2D)** y **Python** — especialmente **Django** y **Reflex**. Me apasiona aprender construyendo ideas reales y compartir mis avances con la comunidad.
+Me gusta construir ideas que se muevan y respondan: desde mundos en Godot 2D, hasta aplicaciones web con Python, Django y Reflex. Busco que cada proyecto cuente algo, funcione bien y se vea vivo.
 
 ---
 
