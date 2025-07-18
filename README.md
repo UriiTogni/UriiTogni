@@ -37,5 +37,4 @@ Me gusta construir ideas que se muevan y respondan: desde mundos en Godot 2D, ha
 
 ## 📊 Estadísticas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UriiTogni&layout=compact&langs_count=6)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UriiTogni&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UriiTogni&layout=compact&langs_count=6)        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UriiTogni&show_icons=true&theme=tokyonight)
