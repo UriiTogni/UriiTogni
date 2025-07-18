@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Uriel ([@UriiTogni](https://github.com/UriiTogni))
-9
+
 Desarrollador enfocándome en proyectos interactivos y funcionales con **Godot (2D)** y **Python** — especialmente **Django** y **Reflex**. Me apasiona aprender construyendo ideas reales y compartir mis avances con la comunidad.
 
 ---
@@ -30,7 +30,7 @@ Desarrollador enfocándome en proyectos interactivos y funcionales con **Godot (
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](#https://www.linkedin.com/in/lauturiel-togni/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lauturiel-togni/)  
 - ✉️ Email: lauturiel@gmail.com  
 
 ---
