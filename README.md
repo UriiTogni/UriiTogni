@@ -8,12 +8,10 @@
 - Godot Engine (2D/3D)
 - Blender (low poly modeling)
 - LibreSprite (pixel art)
-- Python, GDScript
-
---
+- Python, GDScript, C#
 
 ## 🛠️ Actualmente desarrollando:  
-Un plataformero simple para aprender mecánicas básicas.
+- Un plataformero 2D simple para aprender mecánicas básicas y pixel art.
 
 ## 📫 Podés seguir mi progreso en X/Threads, Instagram o itch.io.
  - [Threads](https://www.threads.com/@esusdev)
