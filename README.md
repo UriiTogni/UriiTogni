@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [UriiTogni]
+# 👋 ¡Hola! Soy EsusDev
 
 🎮 Estoy aprendiendo desarrollo de videojuegos desde cero.  
 💻 Trabajo con herramientas como [Godot](https://godotengine.org/), [Blender](https://www.blender.org/) y [LibreSprite](https://www.libresprite.org/).  
@@ -16,6 +16,6 @@
 Un plataformero simple para aprender mecánicas básicas.
 
 📫 Podés seguir mi progreso en X/Threads, Instagram o itch.io.
-[Threads](https://www.threads.com/@esusdev)
-[Instagram](https://www.instagram.com/esusdev/)
-[Itch.io](https://esusdev.itch.io/)
+ - [Threads](https://www.threads.com/@esusdev)
+ - [Instagram](https://www.instagram.com/esusdev/)
+ - [Itch.io](https://esusdev.itch.io/)
