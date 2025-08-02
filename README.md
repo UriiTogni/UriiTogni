@@ -10,12 +10,12 @@
 - LibreSprite (pixel art)
 - Python, GDScript
 
----
+--
 
-🛠️ Actualmente desarrollando:  
+## 🛠️ Actualmente desarrollando:  
 Un plataformero simple para aprender mecánicas básicas.
 
-📫 Podés seguir mi progreso en X/Threads, Instagram o itch.io.
+## 📫 Podés seguir mi progreso en X/Threads, Instagram o itch.io.
  - [Threads](https://www.threads.com/@esusdev)
  - [Instagram](https://www.instagram.com/esusdev/)
  - [Itch.io](https://esusdev.itch.io/)
