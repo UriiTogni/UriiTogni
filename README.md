@@ -1,41 +1,21 @@
-# 👋 ¡Hola! Soy Uriel ([@UriiTogni](https://github.com/UriiTogni))
+# 👋 ¡Hola! Soy [UriiTogni]
 
-Me gusta construir ideas que se muevan y respondan: desde mundos en Godot 2D, hasta aplicaciones web con Python, Django y Reflex. Busco que cada proyecto cuente algo, funcione bien y se vea vivo.
+🎮 Estoy aprendiendo desarrollo de videojuegos desde cero.  
+💻 Trabajo con herramientas como [Godot](https://godotengine.org/), [Blender](https://www.blender.org/) y [LibreSprite](https://www.libresprite.org/).  
+📦 Este perfil es donde comparto código de mis juegos, prototipos, experimentos y herramientas que voy creando.
 
----
-
-## 🚀 Tecnologías & Herramientas
-
-### 🎮 Game Dev
-- Godot Engine (2D)
-- GDScript
-
-### 🐍 Backend & Web
-- Django 5 
-- Reflex 
-- Bases de datos: SQLite
+## 🧰 Tecnologías en las que estoy trabajando:
+- Godot Engine (2D/3D)
+- Blender (low poly modeling)
+- LibreSprite (pixel art)
+- Python, GDScript
 
 ---
 
-## 🧠 Proyectos destacados
+🛠️ Actualmente desarrollando:  
+Un plataformero simple para aprender mecánicas básicas.
 
----
-
-## 🔧 En progreso
-
-- Portafolio interactivo en Reflex
-- Gestor de productos en Django
-
----
-
-## 📫 Contacto
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lauturiel-togni/)  
-- ✉️ Email: lauturiel@gmail.com  
-
----
-
-## 📊 Estadísticas
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UriiTogni&layout=compact&langs_count=6)        
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UriiTogni&show_icons=true&theme=tokyonight)
+📫 Podés seguir mi progreso en X/Threads, Instagram o itch.io.
+[Threads](https://www.threads.com/@esusdev)
+[Instagram](https://www.instagram.com/esusdev/)
+[Itch.io](https://esusdev.itch.io/)
