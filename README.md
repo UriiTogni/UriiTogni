@@ -14,6 +14,4 @@
 - Un plataformero 2D simple para aprender mecánicas básicas y pixel art.
 
 ## 📫 Redes sociales
- - [Threads](https://www.threads.com/@esusdev)
- - [Instagram](https://www.instagram.com/esusdev/)
- - [Itch.io](https://esusdev.itch.io/)
+ - [Linktree](https://linktr.ee/esus_dev)
