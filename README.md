@@ -1,14 +1,12 @@
 # 👋 ¡Hola! Soy EsusDev
 
 🎮 Estoy aprendiendo desarrollo de videojuegos desde cero.  
-💻 Trabajo con herramientas como [Godot](https://godotengine.org/), [Unity](https://unity.com/es), [Blender](https://www.blender.org/) y [LibreSprite](https://www.libresprite.org/).  
+💻 Trabajo con herramientas como [Godot](https://godotengine.org/) y [Unity](https://unity.com/es).  
 📦 Este perfil es donde comparto código de mis juegos, prototipos, experimentos y herramientas que voy creando.
 
 ## 🧰 Tecnologías en las que estoy trabajando
 - Godot y Unity (2D/3D)
-- Blender (low poly modeling)
-- LibreSprite (pixel art)
-- Python, GDScript y C#
+- C#, C++, GDScript y Python
 
 ## 🛠️ Actualmente desarrollando  
 - Un plataformero 2D simple para aprender mecánicas básicas y pixel art.
