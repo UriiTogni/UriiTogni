@@ -1,15 +1,32 @@
 # 👋 ¡Hola! Soy EsusDev
 
-🎮 Estoy aprendiendo desarrollo de videojuegos desde cero.  
-💻 Trabajo con herramientas como [Godot](https://godotengine.org/) y [Unity](https://unity.com/es).  
-📦 Este perfil es donde comparto código de mis juegos, prototipos, experimentos y herramientas que voy creando.
+🎮 **Game Developer en formación** | 📹 **Creador de contenido GameDev**  
+Desarrollo videojuegos y documento todo el proceso: diseño, programación, errores y aprendizajes.
 
-## 🧰 Tecnologías en las que estoy trabajando
-- Godot y Unity (2D/3D)
-- C#, C++, GDScript y Python
+Este GitHub es mi **portfolio en construcción**, donde subo proyectos jugables, prototipos y sistemas de juego mientras construyo mi camino profesional en la industria.
 
-## 🛠️ Actualmente desarrollando  
-- Un plataformero 2D simple para aprender mecánicas básicas y pixel art.
+## 🎯 En qué me enfoco
+- Desarrollo de videojuegos 2D y 3D  
+- Programación de gameplay y mecánicas  
+- Prototipado rápido y aprendizaje práctico  
+- Creación de contenido educativo y devlogs
 
-## 📫 Redes sociales
- - [Linktree](https://linktr.ee/esus_dev)
+## 🧰 Herramientas y tecnologías
+- 🎮 Motores: **Godot** · **Unity**
+- 💻 Lenguajes: **GDScript · C# · C++ · Python**
+- 🧠 Áreas: gameplay programming, game design, sistemas de juego, arquitectura básica
+
+## 📹 YouTube – Esus GameDev
+▶️ [Youtube](https://www.youtube.com/@esusgamedev)  
+
+En el canal comparto:
+- Desarrollo de videojuegos desde cero  
+- Devlogs y procesos reales  
+- Godot, Unity y diseño de juegos  
+- Consejos para empezar en game dev
+
+## 🌐 Conectemos
+- 🔗 [Linktree](https://linktr.ee/esus_dev)
+
+---
+🚀 Si te interesa el desarrollo de videojuegos o estás empezando en game dev, este perfil es para vos.
